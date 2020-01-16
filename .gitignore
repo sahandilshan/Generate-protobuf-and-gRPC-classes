@@ -1,0 +1,23 @@
+*.class
+target/
+
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+
+#idea files
+.idea/
+*.iml
+
+.classpath
+.project
+.settings/
+.cache-tests
+.cache-main
+
+.DS_Store
+
+site/
